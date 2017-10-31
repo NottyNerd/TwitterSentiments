@@ -1,4 +1,4 @@
-## TwitterSentiments
+# TwitterSentiments
 
 
 This code scrapes twitter data through tweepy from a date range 
@@ -15,8 +15,8 @@ It requires the following:
 
 You will be required to open a dev.twitter.com account to acquire the following keys/secrets/tokens
 
-Consumer_Key='XXXXXX'
-Consumer_Secret='XXXXXXXXXXX'
-Access_Token='XXXXXXXXXXXXXXXX'
-Access_Token_Secret='XXXXXXXXXXXXXXXXXXXX'
+#### Consumer_Key='XXXXXX'
+#### Consumer_Secret='XXXXXXXXXXX'
+#### Access_Token='XXXXXXXXXXXXXXXX'
+#### Access_Token_Secret='XXXXXXXXXXXXXXXXXXXX'
 
